@@ -8,3 +8,19 @@
 2026-10-06 05:45:32,882 - INFO - Calculation attempt completed.
 2026-10-06 05:45:35,812 - INFO - User selected option: 6
 2026-10-06 05:45:35,812 - INFO - Calculator exited by user.2026-10-06 11:10:15,234 - INFO - User selected option: 1
+2026-10-18 16:50:04,024 - INFO - User selected option: 1
+2026-10-18 16:50:08,684 - INFO - User entered numbers: 5.0 and 6.0
+2026-10-18 16:50:08,685 - INFO - Calculation successful: 5.0 + 6.0 = 11.0
+2026-10-18 16:50:08,685 - INFO - Calculation attempt completed.
+2026-10-18 16:53:33,363 - INFO - User selected option: 1
+2026-10-18 16:53:37,264 - INFO - User entered numbers: 2.0 and 3.0
+2026-10-18 16:53:37,265 - INFO - Calculation successful: 2.0 + 3.0 = 5.0
+2026-10-18 16:53:37,265 - INFO - Calculation attempt completed.
+2026-10-18 16:53:41,678 - INFO - User selected option: 2
+2026-10-18 16:53:47,563 - INFO - User entered numbers: 5.0 and 3.0
+2026-10-18 16:53:47,564 - INFO - Calculation successful: 5.0 - 3.0 = 2.0
+2026-10-18 16:53:47,564 - INFO - Calculation attempt completed.
+2026-10-18 16:53:52,624 - INFO - User selected option: 5
+2026-10-18 16:53:57,352 - INFO - User selected option: 5
+2026-10-18 16:54:05,405 - INFO - User selected option: 6
+2026-10-18 16:54:05,405 - INFO - Calculator exited by user.
