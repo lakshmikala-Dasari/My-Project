@@ -24,3 +24,9 @@
 2026-10-18 16:53:57,352 - INFO - User selected option: 5
 2026-10-18 16:54:05,405 - INFO - User selected option: 6
 2026-10-18 16:54:05,405 - INFO - Calculator exited by user.
+2026-10-18 17:06:11,946 - INFO - User selected option: 1
+2026-10-18 17:06:16,661 - INFO - User entered numbers: 5.0 and 3.0
+2026-10-18 17:06:16,662 - INFO - Calculation successful: 5.0 + 3.0 = 8.0
+2026-10-18 17:06:16,662 - INFO - Calculation attempt completed.
+2026-10-18 17:08:59,086 - INFO - User selected option: 6
+2026-10-18 17:08:59,087 - INFO - Calculator exited by user.
